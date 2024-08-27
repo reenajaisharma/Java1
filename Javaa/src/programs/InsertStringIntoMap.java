@@ -26,7 +26,7 @@ public class InsertStringIntoMap {
 		 for(Map.Entry entry:map.entrySet())
 		 {
 			 System.out.print( entry.getKey());
-			 
+			  System.out.print("InsertStringIntoMap");
 		 }
 	}
 	public static void main(String[] args)

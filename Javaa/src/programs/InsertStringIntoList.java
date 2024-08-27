@@ -23,6 +23,7 @@ public class InsertStringIntoList {
 		while(itr.hasNext()) {
 			System.out.print(itr.next());}
 	        System.out.print("Inside Iterator");
+			 System.out.print("Inside Iterator");
 	}
 	public static void main(String[] args)
 	{InsertStringIntoList o = new InsertStringIntoList();
